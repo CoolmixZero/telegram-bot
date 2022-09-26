@@ -1,4 +1,4 @@
-## Roulette bot
+## Roulette bo
 Фармим money
 ## ToDO
 ```diff
